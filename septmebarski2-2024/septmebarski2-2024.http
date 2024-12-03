@@ -1,0 +1,6 @@
+@septmebarski2_2024_HostAddress = http://localhost:5200
+
+GET {{septmebarski2_2024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
